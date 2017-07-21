@@ -4,22 +4,22 @@ Final Project: Redbox 101
 This project's purpose is to allow management and inquiry in a movie database.
 The project will input a list of movies and create a binary search tree.
 Each Movie Node:
-	IMBD Rank
-	Title
-	Year
-	Quantity
-	parent
-	leftChild
-	rightChild
-	nextRank
+	IMBD Rank,
+	Title,
+	Year,
+	Quantity,
+	parent,
+	leftChild,
+	rightChild,
+	nextRank,
 	prevRank
 
 
 The tree allows: 
-	insertion of a new movie
-	deletion of a movie
-	search of a specific movie
-	renting of a specific movie
+	insertion of a new movie,
+	deletion of a movie,
+	search of a specific movie,
+	renting of a specific movie,
 	counting the number of movies
 
 Each node will also be doubly linked based on their IMBD RANK.
