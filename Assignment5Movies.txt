@@ -1,0 +1,50 @@
+1,Shawshank Redemption,1994,45,crime drama
+2,The Godfather,1972,34,crime drama
+3,The Godfather: Part II,1974,12,crime drama
+4,The Dark Knight,2008,90,action crime drama 
+5,Pulp Fiction,1994,34,crime drama
+6,12 Angry Men,1957,56,crime drama
+7,Schindler's List,1993,10,biography drama history
+8,The Good the Bad and the Ugly,1966,2,western
+9,The Lord of the Rings: The Return of the King,2003,4,adventure drama fantasy
+10,Fight Club,1999,6,drama
+11,The Lord of the Rings: The Fellowship of the Ring,2001,20,adventure drama fantasy
+12,Star Wars: Episode V - The Empire Strikes Back,1980,12,action adventure fantasy
+13,Forrest Gump,1994,1,comedy drama romance
+14,Inception,2010,10,action adventure sci-fi
+15,One Flew Over the Cuckoo's Nest,1975,10,drama
+16,The Lord of the Rings: The Two Towers,2002,5,adventure drama fantasy
+17,Goodfellas,1990,5,crime drama
+18,The Matrix,1999,5,action sci-fi
+19,Star Wars: Episode IV - A New Hope,1977,6,action adventure fantasy
+20,Seven Samurai,1954,7,adventure drama
+21,Interstellar,2014,8,adventure drama sci-fi
+22,City of God,2002,9,crime drama
+23,Se7en,1995,11,crime drama fantasy
+24,The Usual Suspects,1995,2,crime drama mystery
+25,The Silence of the Lambs,1991,19,crime drama thriller
+26,It's a Wonderful Life,1946,21,drama family fantasy
+27,Once Upon a Time in the West,1968,12,western
+28,Leon: The Professional,1994,31,crime drama thriller
+29,Life Is Beautiful,1997,3,comedy drama war
+30,Casablanca,1942,5,drama romance war
+31,Raiders of the Lost Ark,1981,6,action adventure
+32,American History X,1998,1,crime drama
+33,Saving Private Ryan,1998,3,drama war
+34,City Lights,1931,10,comedy drama romance
+35,Spirited Away,2001,10,animation adventure family
+36,Psycho,1960,6,horror mystery thriller
+37,Rear Window,1954,7,mystery thriller
+38,Whiplash,2014,8,drama music
+39,The Untouchables,2011,3,biography comedy drama
+40,Modern Times,1936,9,comedy drama family
+41,Terminator 2: Judgment Day,1991,10,action sci-fi thriller
+42,Memento,2000,9,mystery thriller
+43,The Green Mile,1999,8,crime drama fantasy
+44,The Pianist,2002,7,biography drama music
+45,The Departed,2006,7,crime drama thriller
+46,Apocalypse Now,1979,5,drama war
+47,Sunset Blvd.,1950,5,drama
+48,Gladiator,2000,5,action adventure drama
+49,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,5,comedy
+50,Back to the Future,1985,5,adventure comedy sci-fi
